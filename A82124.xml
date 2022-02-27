@@ -1,0 +1,1143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of the armie under His Excellency Sir Thomas Fairfax, as it was lately presented at Saffron-Walden in Essex, unto Major-Generall Skippon, Lievtenant-General Cromwell, Commissary-General Ireton, and Colonell Fleetwood, members of the House of Commons, and commissioners there for the Parliament, by Colonell Whaley, Colonell Rich, Colonell Hammond, Colonell Lambert, Colonell Okey, Colonell Hewson, and Major Disborow, with the names of two hundred thirty and more commission-officers annexed. Which declaration is to manifest and set forth to them, they being members of Parliament, and of the army, the armies reall love and diligent care to discharge that duty for which they were raised, as will manifestly appeare in time to all that wish well to mercy, peace, and justice.</title>
+            <author>England and Wales. Army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82124</idno>
+            <idno type="STC">Wing D642</idno>
+            <idno type="STC">Thomason E390_26</idno>
+            <idno type="STC">ESTC R201544</idno>
+            <idno type="EEBO-CITATION">99862043</idno>
+            <idno type="PROQUEST">99862043</idno>
+            <idno type="VID">114192</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82124)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114192)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E390[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of the armie under His Excellency Sir Thomas Fairfax, as it was lately presented at Saffron-Walden in Essex, unto Major-Generall Skippon, Lievtenant-General Cromwell, Commissary-General Ireton, and Colonell Fleetwood, members of the House of Commons, and commissioners there for the Parliament, by Colonell Whaley, Colonell Rich, Colonell Hammond, Colonell Lambert, Colonell Okey, Colonell Hewson, and Major Disborow, with the names of two hundred thirty and more commission-officers annexed. Which declaration is to manifest and set forth to them, they being members of Parliament, and of the army, the armies reall love and diligent care to discharge that duty for which they were raised, as will manifestly appeare in time to all that wish well to mercy, peace, and justice.</title>
+                  <author>England and Wales. Army.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 5, [9] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the appointment of the officers, whose names are hereunto subscribed.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1646 [i.e. 1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A declaration of the Lords and Commons" at the foot of the last page is dated: 30 March 1647.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 4th London 1647"; the final 6 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114192:1" rendition="simple:additions"/>
+            <p>THE DECLARATION OF THE ARMIE UNDER His Excellency Sir THOMAS FAIRFAX, As it was Lately preſented at Saffron-Walden in Eſſex, unto
+<list>
+                  <item>Major-Generall <hi>Skippon,</hi>
+                  </item>
+                  <item>Lievtenant-General <hi>Cromwell,</hi>
+                  </item>
+                  <item>Commiſſary-General <hi>Ireton,</hi>
+                  </item>
+                  <item>And Colonell <hi>Fleetwood,</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Members of the Houſe of Commons, and Commiſſioners there for the Parliament, by
+<list>
+                  <item>Colonell <hi>Whaley,</hi>
+                  </item>
+                  <item>Colonell <hi>Rich,</hi>
+                  </item>
+                  <item>Colonell <hi>Hammond,</hi>
+                  </item>
+                  <item>Colonell <hi>Lambert,</hi>
+                  </item>
+                  <item>Colonell <hi>Okey,</hi>
+                  </item>
+                  <item>Colonell <hi>Hewſon,</hi> And</item>
+                  <item>Major <hi>Diſborow,</hi>
+                  </item>
+               </list> With the names of two hundred thirty and more Commiſſion-Officers annexed.</p>
+            <p>Which Declaration is to manifeſt and ſet forth to them, they being Members of Parliament, and of the Army, the Armies reall love and diligent care to diſcharge that duty for which they were raiſed, as will manifeſtly appeare in time to all that wiſh well to Mercy, Peace, and Juſtice.</p>
+            <p>
+               <hi>The time is coming when God will execute juſtice and judgment on the earth.</hi>
+            </p>
+            <p>Printed by the appointment of the Officers, whoſe names are hereunto ſubſcribed. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114192:2"/>
+            <pb n="1" facs="tcp:114192:2"/>
+            <head>To the honourable, Major Generall <hi>Skippon,</hi> Field-Marſhall for Ireland, Lievtenant-Generall <hi>Cromwell,</hi> Commiſſary-Gene<g ref="char:EOLhyphen"/>rall <hi>Ireton,</hi> and Colonell <hi>Fleetwood:</hi>
+            </head>
+            <opener>The Officers of the Army now convened at Walden, whoſe names are ſub<g ref="char:EOLhyphen"/>ſcribed, humbly ſhew,</opener>
+            <p>THat whereas according to the direction received from you, the two Votes of the honourable Houſe concerning Indempnity and Arrears, have been faithfully communicated to the Soul<g ref="char:EOLhyphen"/>diery under our reſpective Commands; and thereupon there have been returnes made from the ſeverall Regiments, of the grievan<g ref="char:EOLhyphen"/>ces that yet ſtick upon them; out of which there hath been drawn up by the Officers, and conſent of private Souldiers (for more brevity) a Summary of all ſuch heads, wherein the returns from all did agree: All which have been preſented, and ſhewed unto you; by which it doth ap<g ref="char:EOLhyphen"/>peare, that in the Army there are ſundry diſcontents, which we are ſorry to ſee. Now for the clearer diſcovery (according to our beſt obſer<g ref="char:EOLhyphen"/>vations) of the originall grounds, together with the riſe and growth of theſe diſcontents, and the occaſions that have happened to increaſe the ſame; as alſo of our owne and other Officers proceedings, in rela<g ref="char:EOLhyphen"/>tion thereunto: We do here humbly tender this faithfull and true ac<g ref="char:EOLhyphen"/>compt, as followeth.</p>
+            <p>THat we have long found our Souldiers and inferiour Officers (as we have alſo been our ſelves) generally much troubled, That ſince the Kingdome was (through the goodneſſe of God) cleared, and free for the Parliament to raiſe money in, the Army ſhould yet not be ſup<g ref="char:EOLhyphen"/>plied with pay to enable them to diſcharge Quarters, but compelled to be burthenſome to friends, beholden to enemies, and oppreſſive to all, for their neceſſary ſubſiſtance, which, in the way of Free-Quarter (beſides the unequall burthen to thoſe parts where the Army hath been occaſioned to lie) hath put the Kingdome to almoſt double the charge, (dammage or debt) that it would have been, if n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ys had been time<g ref="char:EOLhyphen"/>ly raiſed to enable the Souldiers to pay Quarters. And the conſiderati<g ref="char:EOLhyphen"/>ons of this to the Souldiery hath been the more grievous, in regard of
+<pb n="2" facs="tcp:114192:3"/>
+the advantage which the envy and malignity of many againſt this Army hath thereby had to bring the ſouldiers under ſcorne, con<g ref="char:EOLhyphen"/>tempt and odium with the Countrey, and to render the reproa<g ref="char:EOLhyphen"/>ches and calumnies caſt upon the Army the better accepted with the people.</p>
+            <p>We have found them alſo verie ſenſible (both from their owne reaſon and the experience of others) how tedious, chargeable, difficult and uncertaine it is for Souldiers after disbanding to get their particular accompts audited, and Debenters for Arreares, and much more to get the money, and therefore having not out of their ſmall wages got mo<g ref="char:EOLhyphen"/>ney enough before hand to maintaine them in proſecution of that bu<g ref="char:EOLhyphen"/>ſineſſe, nor the ſum of their Arrears ſo conſiderable as to countervaile the expence of time and money in their neceſſary attendance at London or elſewhere about it, every man for himſelfe; they have been apt to ac<g ref="char:EOLhyphen"/>compt for as good as loſt whatever part of their Arrears they ſhould not (before disbanding) either receive or get debenters for, and a certaine appointment where and how to have the ſame.</p>
+            <p>That the many examples before our eyes of bitter and rigorous pro<g ref="char:EOLhyphen"/>ſecutions at Law againſt Souldiers for things done in the War have oc<g ref="char:EOLhyphen"/>caſioned us and them with ſome amazement and anxiety to fore-thinke if the Parliament ſitting, and the Army yet ſtanding ſuch things were dared and done, what meaſure we were like afterwards to find in caſe (ſufficient proviſion being not made before-hand for indempnity in ſuch things) we ſhould be left to the ſence of a Countrey-Jury or Judge at Law concerning the exigence of war and duty of a Souldier, eſpecially conſidering how many of thoſe under whoſe verdicts it were like to fall are either Malignants or Newters, and the latter (though in other things indifferent, yet in the matter of the war diſaffecting the Parlia<g ref="char:EOLhyphen"/>ments proceedings) doe diſtaſte none ſo much as Souldiers looking up<g ref="char:EOLhyphen"/>on them as their immediate diſturbers, and the ſame conſideration makes the Souldiers alſo feare that upon all future occaſions of preſſing they ſhall bee moſt aimed at by diſ-affected or maligning Neighbours, if that buſineſſe be left to their diſcretion. We have found them al<g ref="char:EOLhyphen"/>ſo ſenſible of the neglect appearing in moſt Countreyes towards maim'd Souldiers and the wives and children of men ſlaine in the warre.</p>
+            <p>We have alſo found in the apprehenſions of many ſome diſſatisfacti<g ref="char:EOLhyphen"/>on in relation to thoſe publike ends, for which principally both in the
+<pb n="3" facs="tcp:114192:3"/>
+Parliaments invitations, and their owne intentions, they were induced to ingage in this warre.</p>
+            <p>In all theſe reſpects premiſed, wee have found the Souldiery very earneſt to have their grievances and deſires in theſe things repreſented to the Parliament by way of humble Petition, and (as there is right and reaſon enough in the things themſelves, ſo) we know nothing that might abſolutely debarre us, or render it unlawfull for them or us to have uſed that liberty of petitioning which belongs to us in common with all other members of the Common-wealth: But yet conſidering how ſubject to ill reſentment or miſconſtruction a Petition from an Army might be, and with what jealouſie all our actions and proceedings in this Army have by many been looked upon, and how watchfull and ready many have been to make miſrepreſentations and raiſe miſappre<g ref="char:EOLhyphen"/>henſions of the ſame. We did apply our ſelves to diſſwade from peti<g ref="char:EOLhyphen"/>tioning at all, or at leaſt to put it off as long as we could, in expectation of what the Parliament of themſelves would doe in thoſe things that might prevent the need of petitioning. Thus we delayed ſo long, till at laſt the Souldiers grew jealous of their Officers, and began to con<g ref="char:EOLhyphen"/>ceive, that the Superiour Officers (their Arreares being more conſidera<g ref="char:EOLhyphen"/>ble, and more worth their expence of time, and money in attendance for them, and they better able to proſecute the ſame for themſelves, as alſo to ſave themſelves from moleſtation or preſſing, after disbanding) did neglect thir Souldiers concernments and mind only their own, in<g ref="char:EOLhyphen"/>ſomuch as having been long put off in their deſires of petitioning, the Souldiers of divers Regiments ſent ſome of themſelves at the firſt con<g ref="char:EOLhyphen"/>veneing of Officers at Walden, to know whether the Officers (having long underſtood the common grievances before) would effectu<g ref="char:EOLhyphen"/>ally fall upon ſome Petition in their behalfes, and to let them know, that otherwiſe they muſt ſpeedily fall upon ſomething by themſelves to make knowne their grievances and deſires while they had time.</p>
+            <p>Hereupon to prevent the Souldiers acting of themſelves in any irre<g ref="char:EOLhyphen"/>gular way, or intermedling with any thing which might breed offence or inconvenience, finding there had been many draughts of Petitions car<g ref="char:EOLhyphen"/>ried about in the Army which did extend to things of divers natures, and ſome beyond the proper concernments of Souldiers; the Officers then convened took one draught which they found leaſt obnoxious that way,
+<pb n="4" facs="tcp:114192:4"/>
+and leaving out <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ltering ſuch paſsages as they thought might (for <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>) prove d<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ſtfull or inconvenient, they brought it to <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Petition, whereof a copie is hereunto annexed, (not touching <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> any thing but the due and neceſsary concernments of Souldiers) and this they directed to the Generall, ſo as, if any thing <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> eſcaped their conſideration, it might through his hand receive a further examen and correction, ere it ſhould come to the Parliament. And thus to concurre with the Souldiers in ſuch a Petition, we were in<g ref="char:EOLhyphen"/>duced the rather becauſe (there being ill-affected ſpirits in all places, rea<g ref="char:EOLhyphen"/>dy to ſtirre up diſcontents in the Army againſt the Parliament) we doubted, that if we did not thus give ſome vent to their juſt grievances and deſires, in thoſe things which generally concerne the Souldiery, ſuch ſpirits might (upon the Souldiers generall diſcontents therein, and the Officers declining them) have a great advantage to ingage the Souldi<g ref="char:EOLhyphen"/>ers, by thoſe things, in an implication of other matters: And we knew no better way to prevent ſuch diſcontents from being blowne up into any mutinous diſtemper, as by giving timely vent to their common and juſt deſires in a regular way, and thereby to keep them within the bounds of due order and relation to their Officers in all they ſhould do; and we are confident that what was (chiefly to this end) then agreed on by the Officers in the buſineſſe of the Petition, if it had been permitted to go on, and not found ſuch an abſolute check and reſtraint as it did, would have proved anſwerably effectuall to have prevented all further inconveniences, and (with a reaſonable anſwer from the Parliament) would have rendred the Souldiers eaſily ſatisfiable with what the Parlia<g ref="char:EOLhyphen"/>ment would do in the things petitioned, and would have inabled the Officers the better to keep them in all due order.</p>
+            <p>Having upon theſe grounds agreed upon the ſaid Petition, moſt of the Officers then at Walden took a copie thereof to their quarters to let the ſouldiers underſtand what was agreed upon for their better ſatisfaction, intending after they had done that, to have preſented it to the General, but before that could be done, ſome that were then at Walden (whom whoever they be, we can judge by the carriage and ſequele of the bu<g ref="char:EOLhyphen"/>ſineſſe, to be no better then malicious Incendiaries indeavouring to be<g ref="char:EOLhyphen"/>get miſ-underſtanding betwixt the Parliament and their Army) having ſurreptitiouſly got a copie of the Petition intended, did <hi>unſeaſonably</hi> pro<g ref="char:EOLhyphen"/>poſſeſſe the Parliament therewith, and that (as we cannot but imagine by the effect) with ſuch miſrepreſentations of our intentions and pro<g ref="char:EOLhyphen"/>ceedings
+<pb n="5" facs="tcp:114192:4"/>
+therein, as to delude the Parliament into high ſuſpitions of ſome dangerous deſigne in it, inſomuch as the honourable Houſe of Commons was induced firſt to ſend order to the Generall for ſuppreſ<g ref="char:EOLhyphen"/>ſing the Petition, and to ſummon divers ominent Officers of the Ar<g ref="char:EOLhyphen"/>my to appeare at their Bar about it, and after that a Declaration in the name of both Houſes againſt all that ſhould proceed therein, was ſent downe, with order to the Generall for the publiſhing of it through the Army, of which Declaration here is alſo a copie annexed.</p>
+            <p>The ſaid Declaration cenſuring the Petition as <hi>dangerous,</hi> tending to put the Army into diſtemper and mutiny, to obſtruct the reliefe of Ireland, and to put conditions upon the Parliament, and declaring the Petitioners if they ſhould proceed therein no leſſe then enemies to the State and diſturbers of the publike peace; we confeſſe, both we and our ſouldiers could not but look upon it with great trouble and amaze<g ref="char:EOLhyphen"/>ment, we could not apprehend or imagine wherein the Petition tend<g ref="char:EOLhyphen"/>ded to put the Army into mutiny or diſtemper (being by us intended and conceived as the ſureſt way to prevent the ſame for the reaſons before expreſſed) nor wherein it tended to obſtruct the reliefe of Ire<g ref="char:EOLhyphen"/>land, being rather the way, as we conceived, of gaining that juſt ſatisfa<g ref="char:EOLhyphen"/>ction to the ſouldiery which might incourage both this Army <hi>more una<g ref="char:EOLhyphen"/>nimouſly,</hi> and all other ſouldiers more cheerfully to ingage in any fu<g ref="char:EOLhyphen"/>ture ſervice for the Parliament, when they ſhould find a due conſidera<g ref="char:EOLhyphen"/>tion in the Parliament as farre as they were able, for ſervices paſt; nor wherein it tended to put conditions upon the Parliament, when as the things it deſired were ſuch as the Parliament had long ſince volunta<g ref="char:EOLhyphen"/>rily (without any bodies capitulation) promiſed and offered to all that ſhould engage in their ſervice or elſe declared to be a generall right, neither could we underſtand why our deſiring of things (though not due, if yet they were but reaſonable, and offered by way of hum<g ref="char:EOLhyphen"/>ble Petition, with ſubmiſſion and reference of it to the Parliament, as we profeſſe our deſires were) ſhould be apprehended as a putting of condi<g ref="char:EOLhyphen"/>tions upon the Parliament, more then all other Petitions have been, from Counties, from Corporations, and eſpecially from the City of London, being a Body more numerous, more cloſely compacted, more neere to the Parliament, and more plentifully furniſhed with money, and all things elſe to back and carry on their deſires, then the Army is: neither could we bethink our ſelves of any paſsage in the Petition that might be any ground of offence, except that clauſe concerning the Royall
+<pb facs="tcp:114192:5"/>
+Aſſent; for which we clearly profeſſe, that the aſſurance we deſired for indempnity, was an Ordinance of Parliament, and our intention in that clauſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was but this, That what Ordinance ſhould be paſt for indempnity, might be propoſed amongſt thoſe other things, to which the Parliament would of themſelves deſire the Royall Aſsent; and that being denied, we ſhould and ſhall acquieſse in the authority of Parliament for that, as we ſuppoſe the Parliament alſo will for thoſe other things. And wee could not ſee, how that clauſe (weighed as it ſtands) can reaſonably be underſtood to import any more.</p>
+            <p>Nevertheleſse we have that honourable eſteem of the wiſdome and gravity, and that regard to the authority of the Parliament, as that though we (looking only upon th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>tion cenſured, and upon our own clear intentions in it) cannot ſee the ground of ſuppreſſing the Pe<g ref="char:EOLhyphen"/>tition, or paſſing ſuch a cenſure upon it, yet we are induced to believe, that the Parliament either had ſuch miſrepreſentations of our carriage a<g ref="char:EOLhyphen"/>bout it, and ſuggeſtions of dangerous deſignes therein as (if true) might juſtly raiſe them into an high reſentment thereof, and jealouſies thereupon, or els were ſome other way abuſed or ſurprized in the pro<g ref="char:EOLhyphen"/>poſall or paſſing of ſuch a Declaration againſt it: But ſince the Parlia<g ref="char:EOLhyphen"/>ment hath not, either in the Order for ſuppreſſing it, or in the Declara<g ref="char:EOLhyphen"/>tion, expreſt any particular ground of their <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and cenſure, either from any paſ<g ref="char:EOLhyphen"/>ſage in the Petition it ſelfe, or from their informations concerning the carriage of it; we find, that both common Souldiers, and other that look ſingly upon the ſaid Order and Declaration as they ſtand directed againſt the Petition it ſelf, the matter whereof they account to be undeniably juſt and due, are carried away with this apprehenſion, that in the one they are denied and debarred the common libertie of petitioning, and in the other are judged <hi>no better then traytors,</hi> for but going about to deſire what they conceive their due, and dearly earned; and are apt to include themſelves <hi>in a bondage below an equall to the worſt of <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ives, if</hi> in any caſe whatſoever they have no way left or al<g ref="char:EOLhyphen"/>lowed to repreſent to their Officers, and by them to their Generall, their grievances and deſires in <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> concernes them meetly as Souldiers, though it be at a ſeaſonable time, when there is not preſent action to imp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de or diſturbe thereby, and though in a re<g ref="char:EOLhyphen"/>gular, quiet and ſubm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſive way, as this in their conceptions and intentions was: Theſe laſt particulars (ere we paſſe them over) we cannot but denote, as being, to our beſt ob<g ref="char:EOLhyphen"/>ſervations, the maine root and bottome of what later diſcontents, or unuſuall proceed<g ref="char:EOLhyphen"/>ings have ſince appeared amongſt the Souldiers; to give accompt whereof, we ſhall in diſcharge of our duties, clearly proceed as followeth.</p>
+            <p>The Souldiers (as is premiſed) finding, o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at leaſt conceiving themſelves debarred from the uſuall and regular wayes of making known their grievances and deſires, and finding the Officers generally diſcouraged from acting or medling any further for them in that way, have fallen into other wayes of correſpondence and agreement a<g ref="char:EOLhyphen"/>mongſt themſelves, for promoting, as they conceive, their juſt and neceſſary deſires, and for their vindication in what they had formerly done, as they thought, upon juſt grounds; and have to that purpoſe appointed, or choſen, out of themſelves, a certaine number for every Regiment, or Troope and Company, to agitate for thoſe ends, in behalf of them all.</p>
+            <p>
+               <pb facs="tcp:114192:5"/>And thus in purſuance of thoſe <hi>grounds</hi> (which they thought juſt &amp; neceſſary) many things have been propoſed amongſt them, written and done, which to others may appeare irregular: and particularly we find, there was indeed ſuch a letter (as the Parliament has had no<g ref="char:EOLhyphen"/>tice of) ſent to the Generall, Major General, and Lieu. Generall, from the Soldiers of eight Regiments of Horſe; but we cannot find, that that, or ought elſe has been done by thoſe their agents which hath not been with the conſent or allowance, or approbation of the generality of the Soldiers. And we find it hath been alſo agreed and reſolved amongſt them, to ſend up to the Parliament by their ſaid A<g ref="char:EOLhyphen"/>gents, all the heads of the former Petition already; onely in forme (directing the ſame immediatly to the Parliament) and wee per<g ref="char:EOLhyphen"/>ceive there have not wanted ſome in all quarters (upon their disſatiſ<g ref="char:EOLhyphen"/>faction in thoſe things) ready to engage them in an implication of things of other nature, which though not evill in themſelves, yet did not concern them properly, as Soldiers.) And that purpoſe of ſending up their deſires to the Parliamiament, had (as we find) been done or attempted ere now, but that (upon the ſending downe of your ſelves from the Houſe of Commons, to quiet diſtempers in the Army) thoſe appointed to goe up, were ſtopt, upon expectation of what you might bring down from the Houſe towards their ſatisfa<g ref="char:EOLhyphen"/>ction; or, in hope, at leaſt, to have their grievances and deſires in reaſonable things again admitted into ſome regular way of being made known, and that with clearneſſe, and candid dealings on your parts, and without ſuch miſrepreſentation, as by others (the precedent officious informers) had formerly been put upon them. And ſince this expectation bred amongſt them, we have not found any procee<g ref="char:EOLhyphen"/>dings amongſt them in other wayes, that might be counted diſorder or diſtemper.</p>
+            <p>Now for the effect of thoſe two votes of the Houſe on <hi>Friday, April</hi> 30. ſent down by your hands, which according to our duty have been faithfully imparted to our ſeverall Troops and Companies, we gene<g ref="char:EOLhyphen"/>rally find as followeth.</p>
+            <p n="1">1 That the Ordinance for indempnity (mentioned in the firſt Vote) will clearly ſatisfy as to that point, if once paſt and full to the purpoſe, as we preſume it will be.</p>
+            <p n="2">2 That upon the ſecond Uote concerning arrears, we cannot find or expect the like effect, and that amongſt diverſe other rea<g ref="char:EOLhyphen"/>ſons) principally for this; becauſe all the aſſurance the Uote gives concerning arrears to be paid at disbanding is this, <hi>viz</hi> [That the
+<pb facs="tcp:114192:6"/>
+houſe has reſolved that a conſiderable part of the arrears, ſhall be paid at disbanding] and no mention being made what proportion; but thoſe words, [the houſe has reſolved] ſeeming to referre to ſome proportion formerly reſolved; It is generally vnderſtood to imploy any other then that of ſix weeks pay.</p>
+            <p>Now that Uote for ſix weeks pay at disbanding, as it came forth at a time of much diſadvantage in reſpect of the diſcontents prece<g ref="char:EOLhyphen"/>ding, ſo in the effect and circumſtances of it, It conduced much to heigthen increaſe and fix the ſame; the ſumme being generally lookt upon as very inconſiderable, in relation to the great arreares incurr'd, not under the new Modell alone, but alſo in former Ar<g ref="char:EOLhyphen"/>mies and ſervices of the Parliament. For the Officers of this Army generally, and amongſt the horſe, moſt of the Souldiers and very ma<g ref="char:EOLhyphen"/>ny of the foot are ſuch, as have been engaged for the Parliament on where or other from the beginning of the warre, and have their arrears incurr'd under the Modell, ſuperadded to what arrears all former Armyes and forces (where they have ſerved) were in, at their ſeverall reducements or disbandings. And that ground which moved the Souldiery from affection to the cauſe, to be content with leſſe of arreares upon former reducements in times of neceſſity, <hi>viz.</hi> (becauſe the Parliament could then doe no more,) that ground (wee ſay) doth with ſome, ſeem now to be ſomething impaired ſince the Parliament hath had the Kingdom now a good while wholly under their power.</p>
+            <p>We find ſome other things that have concurred not a little to increaſe diſcontents, from the carriage of ſome of the Commiſſio<g ref="char:EOLhyphen"/>ners that came downe hither for the Iriſh ſervice; as particularly their impriſoning and ſending up to <hi>London</hi> a Commiſſion-Officer of the Army, <hi>(Enſigne Nichols)</hi> which (whatever the ground may be) yet being without any concurrence of the Generall, or thoſe left to command in his abſence, and their own authority not appearing, nor any produced by them) ſeemes an abſolute breach both of the ſubjects liberty, and Soldiers uſuall right, and an affront to the au<g ref="char:EOLhyphen"/>thority appoynted by the Parliament over the Army. And this par<g ref="char:EOLhyphen"/>ticular, together with many other carriages of ſome of them, ſeeming to concurre all to one end, <hi>viz.</hi> the pulling of the Army in peeces, and provoking it to diſtempers by their violent wayes, rather then the ſervice of <hi>Ireland ſhould be ſupplied,</hi> or the quiet of this King<g ref="char:EOLhyphen"/>dome aſſured in any other way, wherein this Army might paſſe with<g ref="char:EOLhyphen"/>out a diſhonour.</p>
+            <p>
+               <pb facs="tcp:114192:6"/>Laſtly, we find that diſcontents, diſcouragements, and ſome ani<g ref="char:EOLhyphen"/>moſities, have been much occaſioned and increaſed in the Army by the high indignities, the manifold reproaches and calumnies of all ſorts moſt unworthily caſt upon the Army, in falſe reports raiſed, and induſtriouſly divulged in Sermons, in printed bookes, (licenſed and paſſing without check to bee publiſhed through the world) and in petitions accepted, (moſt of them) with thanks. And here we cannot but take notice of the ingratitudes &amp; unworthy requitals ap<g ref="char:EOLhyphen"/>pearing eſpecially from a great party in that City (whoſe Trade ſince this Army began to open it) hath been advantaged above a million thereby; and yet they have not onely long with-held their contri<g ref="char:EOLhyphen"/>butions appoynted by the Parliament for this Army, (which hath occaſioned a great part of its arreares:) but have in all other wayes indeed contributed their endevours, to have it paid with diſhonour, and unworthily turn'd off. And though all reproches and indignities have been born by the Army with patience and abſolute ſilence hi<g ref="char:EOLhyphen"/>therto, (not to be exampled, we think, in other armies; yet it cannot but trouble men, when they have followed the work of the kingdom with diligence and faithfulneſſe; and have (at leaſt) endevoured to do the whole Kingdom good, and to doe no man any wrong or damage where ere they have come (that the Being of an Army could avoyd;) they ſhould yet by ſpite and falſhood (even from that party that reaps the advantange of all what they have done) bee rendred the ſcorne and hate of men, while (to avoyd the Kingdomes diſquiet) they have been ſilent in their owne behalfe.</p>
+            <p>We have thus (we hope) diſcharged our duty in a faithfull &amp; clear account of the generall diſcontents (not to trouble you with the nu<g ref="char:EOLhyphen"/>merous particularities) that we find in the Army, together with the grounds, occaſions, and growth of them, and of our own proceedings in relation to them, we hope the full diſcovery of the bottome, if the ſoare may give the leaſt advantage to the cure: towards which, if we may offer any thing as we have done for the other: we hum<g ref="char:EOLhyphen"/>bly conceive that nothing can ſo fully reach, and ſurely remove the ground of thoſe diſcontents, and prevent all further inconveniencies hereupon, as theſe things following.</p>
+            <p>That if the order for ſuppreſſing the Petition, or the cenſure paſt in the declaration againſt it were not (in the Parliaments ſenſe and intention) meerly in relation to the act of petitioning, or the mat<g ref="char:EOLhyphen"/>ter petitioned, but chiefly upon information of ill carriages, or ſug<g ref="char:EOLhyphen"/>geſtions of ſome deſigne in the managing of it; The Parliament would bee pleaſed to declare ſo much, and to cleare their owne
+<pb facs="tcp:114192:7"/>
+ſenſe and intentions, as to the juſt liberty of Soldiers in repreſenting their grievances and deſires (as Soldiers) to their officers, and by them to their Generall, in a quiet and regular way, and alſo as to the right or reaſonableneſſe of the things petitioned.</p>
+            <p n="2">2 That if the Parliament have ben by falſe informations abuſed, or o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>herwiſe ſurpriſed, or indirectly dealt withall by any perſons what<g ref="char:EOLhyphen"/>ſoever, in what hath there paſſed in relation to that buſineſſe, they would be pl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſed to vindicate a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d cleare the ho<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Parliament from the evil pract<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſes and deſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uctive deſigns of a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l ſuch men &amp; cauſe them to be diſcovered and deal withall according to their demerits.</p>
+            <p n="3">3. That, next, ſince the Pa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent is already (though by ſome an<g ref="char:EOLhyphen"/>ticipation) poſſeſt with the effect of the petition they would be plea<g ref="char:EOLhyphen"/>ſed to take the matter of it into timely conſideration, and give there<g ref="char:EOLhyphen"/>in what ſatisfaction they may.</p>
+            <p n="4">4. That the Parliament would diſcountenance all unjuſt calum<g ref="char:EOLhyphen"/>nies againſt the Army, and give way, that before it bee disbanded, and diſperſt, the army may agree upon, and publiſh a ſober and tem<g ref="char:EOLhyphen"/>perate vindication of themſelves, from the many ſcandals caſt upon them, firſt preſenting and ſubmitting the ſame to the Parliaments approbation.</p>
+            <p>And thus, notwithſtanding all diſcontents, and paſt provocations, we dare be confident for our Soldiers, and the body of the Army, that they will be ſway'd and ſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>isfied with juſtice and reaſon, will ſuffer much in their own particulars for the quiet and w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ale of the publick, and will be ever faithfull and ſerviceable to Parliament and Kingdome.</p>
+            <p>We have in all this diſcharged our conſciences and duties to God, the Parliament and Kingdome, as well as to the Army, for the pre<g ref="char:EOLhyphen"/>vention of any further inconvenience on all hands. And the Lord is whoſe hands all iſſues are, direct all counſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s hereupon for the beſt.</p>
+         </div>
+         <div type="list_of_officers">
+            <list>
+               <head>A Liſt of the ſeverall reſpective Officers intereſted herein.</head>
+               <item>Field-Off<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cers.
+<list>
+                     <item>
+                        <hi>Ioh. Hammo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>d</hi> Collonel.</item>
+                     <item>
+                        <hi>Iohn Lambert</hi> Collonel.</item>
+                     <item>
+                        <hi>Iohn Hewſon</hi> Collonel</item>
+                     <item>
+                        <hi>Richard Englesby</hi> Collonel</item>
+                     <item>
+                        <hi>Edward W<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>aley</hi> Collonel.</item>
+                     <item>
+                        <hi>Iohn O<gap reason="illegible" resp="#UOM" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>
+                        </hi> Collonel</item>
+                     <item>
+                        <hi>Nicholas Cowley</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m: General. viz, Lieutenant Collonells.
+<list>
+                     <item>
+                        <hi>Izick Ewers</hi> Lieu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>enant Coll:</item>
+                     <item>
+                        <hi>Thomas Pride</hi> Li<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ut: Col:</item>
+                     <item>
+                        <hi>Iohn Iubbe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> Lieu: Col:</item>
+                     <item>
+                        <hi>Marke Gr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ms</hi> Lieut. Col.</item>
+                     <item>
+                        <hi>Edward Salm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n</hi> Li<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ut: Col.</item>
+                     <item>
+                        <hi>Thomas R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e</hi> Lieu: Col:</item>
+                     <pb facs="tcp:114192:7"/>
+                     <item>
+                        <hi>Robert Huntington</hi> Major.</item>
+                     <item>
+                        <hi>Iohn Diſbrow</hi> Major.</item>
+                     <item>
+                        <hi>Thomas Horten</hi> Major.</item>
+                     <item>
+                        <hi>G<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>orge Sedaſive</hi> Maj.</item>
+                     <item>Cap<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aine <hi>Lawrence</hi> Martiall of Horſe.</item>
+                  </list>
+               </item>
+               <item>A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l theſe Field Off<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cers.
+<list>
+                     <item>
+                        <hi>Wr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>th Rogers</hi> Major.</item>
+                     <item>
+                        <hi>William Cowel</hi> Maj<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r.</item>
+                     <item>
+                        <hi>Thomas Smith</hi> Maj.</item>
+                     <item>
+                        <hi>Dani<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ll Ax<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>il</hi> Major</item>
+                     <item>
+                        <hi>Iohn Wade</hi> Major.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Horſe.</hi>
+                  <list>
+                     <item>
+                        <hi>Iohn Reynolds</hi> Captaine.</item>
+                     <item>
+                        <hi>Azaliah Husbands</hi> Captaine</item>
+                     <item>
+                        <hi>Richard Sand</hi> Captaine</item>
+                     <item>
+                        <hi>Robert Gibhouſe</hi> Captaine.</item>
+                     <item>
+                        <hi>Robert Kirkby</hi> Capt. Lieutenant</item>
+                     <item>
+                        <hi>I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſeph Wa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ento<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> Cap. Lieutenant</item>
+                     <item>
+                        <hi>Tobias Bri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s</hi> Cap<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aine.</item>
+                     <item>
+                        <hi>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>muel Gar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ner</hi> Cap.</item>
+                     <item>
+                        <hi>Joſe<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> Bl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſſe</hi> Cap. Li<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>utenant.</item>
+                     <item>
+                        <hi>Io<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n Pit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>hfo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </hi> Cap<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aine.</item>
+                     <item>
+                        <hi>W<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>liam Ev<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n</hi> Cap.</item>
+                     <item>
+                        <hi>Adam Lawrenes</hi> Cap.</item>
+                     <item>
+                        <hi>Iohn Gladman</hi> Cap. Li<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>utenant.</item>
+                     <item>
+                        <hi>Thomas Ireton</hi> Cap.</item>
+                     <item>
+                        <hi>Iohn G<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ve</hi> Capt.</item>
+                     <item>
+                        <hi>Wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>liam Rain<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>borough</hi> Cap.</item>
+                     <item>
+                        <hi>Thomas Pennef<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>her</hi> Cap.</item>
+                     <item>
+                        <hi>H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nry Can<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n</hi> Cap.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Gen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ralls.</hi>
+                  <list>
+                     <item>
+                        <hi>Francis Wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>te</hi> Cap.</item>
+                     <item>
+                        <hi>W<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lliam L<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> Cap.</item>
+                     <item>
+                        <hi>L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>wis Audl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y</hi> Cap. Lieutenant.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Ho<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe.</hi>
+                  <list>
+                     <item>
+                        <hi>B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ng. Burg<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſſe</hi> Cap.</item>
+                     <item>
+                        <hi>Francis Haw<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> Cap.</item>
+                     <item>
+                        <hi>I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>mes L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ughton</hi> Cap.</item>
+                     <item>
+                        <hi>Daniel Dale</hi> Cap. Lieutenant.</item>
+                     <item>
+                        <hi>William Colm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n</hi> Capt.</item>
+                     <item>
+                        <hi>John Ien<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>in<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Cap.</hi>
+                     </item>
+                     <item>
+                        <hi>Walth<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>r Bethel</hi> Cap</item>
+                     <item>
+                        <hi>Henry Pritty</hi> Cap.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Hamonds.</hi>
+                  <list>
+                     <item>
+                        <hi>Thomas Diſney</hi> Cap.</item>
+                     <item>
+                        <hi>William Siraton</hi> Cap.</item>
+                     <item>
+                        <hi>Iohn Boyce</hi> Cap.</item>
+                     <item>
+                        <hi>Edmona Ralph</hi> Cap.</item>
+                     <item>
+                        <hi>Iſrael Smith</hi> Cap.</item>
+                     <item>
+                        <hi>Iohn Puckell</hi> Cap.</item>
+                     <item>
+                        <hi>Edward Humphrey</hi> Cap. Lieu.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Wallers.</hi>
+                  <list>
+                     <item>
+                        <hi>William Goffe</hi> Cap.</item>
+                     <item>
+                        <hi>George Griphin</hi> Cap.</item>
+                     <item>
+                        <hi>Iohn Maſon</hi> Cap.</item>
+                     <item>
+                        <hi>Waldine L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>goe</hi> Cap.</item>
+                     <item>
+                        <hi>Thomas Paſons</hi> Cap.</item>
+                     <item>
+                        <hi>Roger Alſop</hi> Cap.</item>
+                     <item>
+                        <hi>Ioſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ph Sallile</hi> Cap. Lieut.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>La<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>b.</hi>
+                  <list>
+                     <item>
+                        <hi>Iohn B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſco</hi> Cap.</item>
+                     <item>
+                        <hi>Ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>thew Ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>well</hi> Cap.</item>
+                     <item>
+                        <hi>William Diſney</hi> Cap.</item>
+                     <item>
+                        <hi>Gul. Sandes</hi> Cap.</item>
+                     <item>John <hi>Grims</hi> Cap.</item>
+                     <item>
+                        <hi>Robert Read</hi> Cap.</item>
+                     <item>
+                        <hi>John Sp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>uer</hi> Cap.</item>
+                     <item>
+                        <hi>Edward O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>en</hi> Cap.</item>
+                     <item>
+                        <hi>
+                           <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſae<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ll Smith</hi> Cap.</item>
+                     <item>
+                        <hi>William Weare</hi> Cap Lieut.</item>
+                     <item>
+                        <hi>Robert Anderſon</hi> Cap.</item>
+                     <item>
+                        <hi>Samuel Ro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e</hi> Cap. Lieut.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Hu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ons</hi>
+                  <list>
+                     <item>
+                        <hi>J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Carter</hi> Cap.</item>
+                     <item>
+                        <hi>Sa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>l Grimes</hi> Cap.</item>
+                     <item>
+                        <hi>Thomas Price</hi> Cap.</item>
+                     <item>
+                        <hi>John Tappildi</hi> Cap.</item>
+                     <item>
+                        <hi>Henry Davi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> Capt.</item>
+                     <item>
+                        <hi>Alexander B<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>fie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>d</hi> Cap.</item>
+                     <pb facs="tcp:114192:8"/>
+                     <item>
+                        <hi>Thomas Atkinſon</hi>
+                     </item>
+                     <item>
+                        <hi>William Arnop</hi>
+                     </item>
+                     <item>
+                        <hi>Jeremy Tolherſt</hi>
+                     </item>
+                     <item>
+                        <hi>Abraham Hopkins</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Lilbron</hi> Cap.</item>
+                     <item>Captaine <hi>Deſlodden.</hi>
+                     </item>
+                     <item>
+                        <hi>John Clocke.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Horſe lieu,</hi>
+                  <list>
+                     <item>
+                        <hi>Edward Sooten</hi>
+                     </item>
+                     <item>
+                        <hi>James Flood</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Shears</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Johnſon</hi>
+                     </item>
+                     <item>
+                        <hi>Feorge Enſon</hi>
+                     </item>
+                     <item>
+                        <hi>Nathaniel White</hi>
+                     </item>
+                     <item>
+                        <hi>Griffith Looyd</hi>
+                     </item>
+                     <item>
+                        <hi>Sampſon Twogoed</hi>
+                     </item>
+                     <item>
+                        <hi>Benjamin Giffard</hi>
+                     </item>
+                     <item>
+                        <hi>Stephen White</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Franke</hi> Lieu.</item>
+                     <item>
+                        <hi>Philip Prine</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Merryman</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Johnſon</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Barton</hi> Lieu.</item>
+                     <item>
+                        <hi>Samuel Axtill</hi>
+                     </item>
+                     <item>
+                        <hi>George Elſemore</hi>
+                     </item>
+                     <item>
+                        <hi>Edmond Chillenden</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Chamberland</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Savedge</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Alridge</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Peck</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Foote.</hi>
+                  <list>
+                     <item>
+                        <hi>Lewis Nothcut</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Filkens</hi>
+                     </item>
+                     <item>
+                        <hi>Nathaniel Chats</hi>
+                     </item>
+                     <item>
+                        <hi>Briant Smith</hi>
+                     </item>
+                     <item>
+                        <hi>William Ward</hi>
+                     </item>
+                     <item>
+                        <hi>Gabrell Earwood</hi>
+                     </item>
+                     <item>
+                        <hi>Ethelbert Morgan</hi>
+                     </item>
+                     <item>
+                        <hi>John Topping</hi>
+                     </item>
+                     <item>
+                        <hi>Roger Lewis</hi>
+                     </item>
+                     <item>
+                        <hi>Ralph Wilſon</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Watſon</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Nich<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>las</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Dorney</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Turner</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Clarke</hi>
+                     </item>
+                     <item>
+                        <hi>Abraham Davis</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Daye</hi> Lieu.</item>
+                     <item>
+                        <hi>George Smith</hi>
+                     </item>
+                     <item>
+                        <hi>William Hill</hi> Lieu.</item>
+                     <item>
+                        <hi>Thomas Baker</hi>
+                     </item>
+                     <item>
+                        <hi>William Shelley</hi>
+                     </item>
+                     <item>
+                        <hi>Edmond Singleton</hi>
+                     </item>
+                     <item>
+                        <hi>Ran: Warner</hi>
+                     </item>
+                     <item>
+                        <hi>William Gougha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Andrew Edwards</hi>
+                     </item>
+                     <item>
+                        <hi>Jenken Benam</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Beab</hi>
+                     </item>
+                     <item>
+                        <hi>George Jeckes</hi>
+                     </item>
+                     <item>
+                        <hi>William Farly</hi>
+                     </item>
+                     <item>
+                        <hi>Heugh Jenkins</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Miller</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Caſinghurst,</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Potter</hi>
+                     </item>
+                     <item>
+                        <hi>Mar: Jubbs</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Cornets.</hi>
+                  <list>
+                     <item>
+                        <hi>Peter Wallis</hi> Cornet</item>
+                     <item>
+                        <hi>Wig. Barrington,</hi>
+                     </item>
+                     <item>
+                        <hi>John Spenſer.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Euſe</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Whittington</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Winſtanley</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Barker</hi>
+                     </item>
+                     <item>
+                        <hi>William Quints</hi>
+                     </item>
+                     <item>
+                        <hi>James Wilſon</hi>
+                     </item>
+                     <item>
+                        <hi>Chriſtopher Kemer</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Clarke</hi>
+                     </item>
+                     <item>
+                        <hi>Samuell Parker</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Fox</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Ledbrooke.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Eſſex</hi>
+                     </item>
+                     <item>
+                        <hi>Abel Warren.</hi>
+                     </item>
+                     <item>
+                        <hi>Charles Whitehead</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Ward</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Southwood</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Miles</hi>
+                     </item>
+                     <item>
+                        <hi>Ioſ. Saberion</hi>
+                     </item>
+                     <item>
+                        <hi>William Cob.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Weeb.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Chyman.</hi>
+                     </item>
+                     <item>
+                        <hi>Sammuell Balls,</hi>
+                     </item>
+                     <item>
+                        <hi>William Rance,</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Quarter-maſters.
+<list>
+                     <item>
+                        <hi>James Goodwen</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Savedge.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Waren</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Ward</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Stanard.</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Williams</hi>
+                     </item>
+                     <item>
+                        <hi>Caleb Lee</hi>
+                     </item>
+                     <item>
+                        <hi>Nath. Philips</hi>
+                     </item>
+                     <item>
+                        <hi>Paul Chriſine</hi>
+                     </item>
+                     <item>
+                        <hi>George Sanders.</hi>
+                     </item>
+                     <item>
+                        <hi>Q. Hurd</hi>
+                     </item>
+                     <item>
+                        <hi>John Due</hi>
+                     </item>
+                     <item>
+                        <hi>W. Miler</hi>
+                     </item>
+                     <item>
+                        <hi>John Kennet.</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Wilmate.</hi>
+                     </item>
+                     <item>
+                        <hi>Rob. Agur<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>d.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Enſignes of Foot.
+<list>
+                     <item>
+                        <hi>Charles Bolton,</hi> En<g ref="char:EOLhyphen"/>ſigne to his Excel.</item>
+                     <item>
+                        <hi>Robert Smith,</hi> Enſign</item>
+                     <item>
+                        <hi>George Clerk.</hi>
+                     </item>
+                     <item>
+                        <hi>Sam. Wiſe.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Williams.</hi>
+                     </item>
+                     <item>
+                        <hi>Joſeph Grovey.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Rawlins.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Lewis.</hi>
+                     </item>
+                     <item>
+                        <hi>Ier. Camfield</hi>
+                     </item>
+                     <item>
+                        <hi>Liſle Thomas,</hi>
+                     </item>
+                     <item>
+                        <hi>Wil. Bird</hi>
+                     </item>
+                     <item>
+                        <hi>Sam. Chaſe.</hi>
+                     </item>
+                     <pb facs="tcp:114192:8"/>
+                     <item>
+                        <hi>Will. Ererrard.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Maſon</hi>
+                     </item>
+                     <item>
+                        <hi>Rob. Beſdin</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Jones.</hi>
+                     </item>
+                     <item>
+                        <hi>Evan Jones</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Newman.</hi>
+                     </item>
+                     <item>
+                        <hi>Morgan Portree.</hi>
+                     </item>
+                     <item>
+                        <hi>John Davis</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Bourn</hi>
+                     </item>
+                     <item>
+                        <hi>William Jayſe</hi>
+                     </item>
+                     <item>
+                        <hi>Ferdinando Green.</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Farmer</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Hoadworth.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Houre.</hi>
+                     </item>
+                     <item>
+                        <hi>Morgan Portree.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Newman.</hi>
+                     </item>
+                     <item>
+                        <hi>John Davis</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Munings</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Evans.</hi>
+                     </item>
+                     <item>
+                        <hi>Wil. Allen.</hi>
+                     </item>
+                     <item>
+                        <hi>Morgan Porter.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div type="petition">
+            <head>The Armies Petition. To his Excellency Sir <hi>Thomas Fairfax,</hi> Generall for the Parliaments forces. The humble Petition of the Officers and Soldiers of the Army under your Command.</head>
+            <opener>Sheweth,</opener>
+            <p>THat ever ſince our firſt ingagement in the ſervice for the preſerving the power of this Kingdome in the hands of the Parliament, we have in our ſeverall places ſerved them with all faithfulneſſe, and although we have laine under many diſcouragements, for want of pay and other neceſſaries, yet have we not diſpared their Commands diſobeyed their Orders, nor diſturbed them with Petitions, nor have their any viſible diſcontents appeared amongſt us, to the incouragement of the enemy, and the impediment of their affaires, but have with all cheerfullneſſe, done Summer ſervice in Winter ſeaſons, improving the utmoſt of our abilities, in the advancment of their ſervice, and ſeeing God hath Crowned our endeavours with the end of our deſire (<hi>viz.</hi> the diſperſeing of the publick enemie, and reducing them to their obedience) the King being now brought in, our brethren the <hi>Scots</hi> now ſatisfied and departed the Kingdome, all danger ſeemingly blown over and peace in all their quarters.</p>
+            <p>We (imboldned by the manifold promiſes and Declaration, to defend and protect thoſe that appeared and acted in the ſervice) do herewith humbly pre<g ref="char:EOLhyphen"/>ſent to your Excellency, the annexed repreſentation of our deſires, which we humbly beſeech your Excelency to recommend or repreſent in our behalfe unto the Parliament, and your Petitioner ſhall ever honour and pray for your Excel<g ref="char:EOLhyphen"/>ency, &amp;c.</p>
+            <p>
+               <hi>The humble Repreſentation of the deſires of the Officers and Soldiers of the Army, under the Command of his Excellency Sr.</hi> Thomas Fairfax <hi>preſented firſt to his Excellency, to be by him repreſented to the Parliament.</hi>
+            </p>
+            <p n="1">1. Whereas the neceſſity and exigency of the Warr hath put us upon many actions, which the Law would not warrant, nor we have acted in a time of ſetled peace, we humbly deſire that before our disbanding, a full and ſufficient proviſion may be made by Odinance of Parliament (to which the Royal aſſen: may be deſired) for our indempnity and ſecurity in all ſuch caſes.</p>
+            <p n="2">2. That Audicers and Commiſsioners may be ſpeedily appointed and autho<g ref="char:EOLhyphen"/>rized to repair to the head quarters of this Army, to audite and ſtate our ac<g ref="char:EOLhyphen"/>compts,
+<pb facs="tcp:114192:9"/>
+as well for our former, ſervice as for our ſervice in this Army, and that before the disbinding of the Army, ſatisfaction may be given to the Petitioners for their arrears, that for the charge, trouble and loſſe of time, which we muſt otherwiſe neceſſarily undergo in attendance for obtaining of them may be prevented, we having had <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xperience that many have been reduced to miſerable extremity, even almoſt ſtarved for want of releife, by their tedious attendance, and that no Officer may be charged with any thing in his accompts, that doth not particularly concerne himſelf.</p>
+            <p n="3">3 That thoſe who have voluntarily ſerved the Parliament in the late warre, may not hereafter be compelled by preſſe or otherwiſe, to ſerve as Soldiers out of this Kingdome, nor thoſe who have ſerved as Horſemen, may be compel<g ref="char:EOLhyphen"/>led by preſſe, to ſerve on foot in any future caſe.</p>
+            <p n="4">4 That ſuch in this Army, as have loſt their lives, and the wives and children of ſuch as haue been ſlain in the Service, and ſuch Officers and Soldiers as have ſuſtained loſſes, or have been prejudiced in their eſtates, by adhering unto the Parliamen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, or in their perſons by ſickneſſe or impriſonment under the enemy, may have ſuch allowance, and ſatisfaction, as may bee agreeable to juſtice and equity,</p>
+            <p n="5">5. That till the Army be disbanded as aforeſaid, ſome courſe may be taken for the ſupply thereof with money, whereby wee may bee inabled to diſcharge our quarters, that ſo we may not for neceſſaries forc'd to be beholding to the Parlia<g ref="char:EOLhyphen"/>ments enemies, burthenſome to their friends; or oppreſſive to the Countrey, whoſe preſervation we have alwaies indeavoured, and in whoſe happineſſe wee ſhall ſtill rejoyce.</p>
+         </div>
+         <div type="declaration">
+            <head>A Declaration of the Lords and Commons Aſſembled in Parliament, Die Martis <hi>30.</hi> Martii <hi>1647.</hi>
+            </head>
+            <p>THat the 2. Houſes of parliament having received information of a dangerous Petiti<g ref="char:EOLhyphen"/>on, with repreſentations annexed, tending to put the Army in a diſtemper and mute<g ref="char:EOLhyphen"/>ny, to put conditions upon the Parliament, and obſtruct the reliefe of <hi>Ireland,</hi> which hath been contrived and promoted by ſome perſons in the Army They do declare their high diſlike of that Petition, their approbation and eſteeme o their good ſervice who firſt diſcovered it, and of all ſuch Officers and Souldiers as haue refuſed to joyne in it, and that for ſuch as have been abuſed, and by the perſwaſion of others drawne to ſubſcribe it; if they ſhall for the future manifeſt their diſlike of what they have done, by forbearing to pro<g ref="char:EOLhyphen"/>ceed any further in it, it ſhall not be looked upon as any cauſe to take away the remem<g ref="char:EOLhyphen"/>brance and ſence the Houſes have of the good ſervice they have formerly done; but they ſhall ſtill be retained in their good opinion, and ſhall be cared for with the reſt of the Ar<g ref="char:EOLhyphen"/>my in all things neceſſary and fitting for the ſatisfaction of Perſons that have done ſo good and faithfull ſervice, and as may be expected from a Parliament, ſo carefull to per<g ref="char:EOLhyphen"/>forme all things appertaining to Hono<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r and Iuſtice; as on the other ſide it is declared, that all thoſe who ſha l continue in their diſtempered condition, and goe on in advanſing and promoting that Petition, ſhall be looked upon and proceeded againſt as enemies to the State, and diſturbers of the publike Peace.</p>
+            <closer>
+               <dateline>
+                  <date>Die Martis 30. Martii 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Ordered by the Lords aſsembled in Parliament, that this Declaration be forthwith printed and publiſhed,</p>
+            <closer>
+               <signed>Iohn Browne Cler: Parliamentorum.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:114192:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
